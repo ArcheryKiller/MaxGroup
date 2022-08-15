@@ -4,4 +4,5 @@
     <string name="hint_login">Логин</string>
     <string name="helper_text_enter_password">Введите пароль</string>
     <string name="helper_text_enter_username">Введите имя пользователя</string>
+    <string name="btn_text_enter">Войти</string>
 </resources>
