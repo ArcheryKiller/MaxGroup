@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Max Group</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_login">Логин</string>
+    <string name="helper_text_enter_password">Введите пароль</string>
+    <string name="helper_text_enter_username">Введите имя пользователя</string>
 </resources>
